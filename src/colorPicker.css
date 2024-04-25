@@ -1,0 +1,8 @@
+.color-picker-container {
+    margin-bottom: 20px;
+  }
+  
+  .selected-color {
+    font-size: 18px;
+    margin-top: 10px;
+  }

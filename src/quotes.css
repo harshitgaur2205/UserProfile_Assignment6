@@ -1,0 +1,11 @@
+.random-quote-container {
+    margin-top: 20px;
+  }
+  
+  .random-quote-container blockquote {
+    font-style: italic;
+    font-size: 16px;
+    padding-left: 20px;
+    border-left: 3px solid #007bff;
+  }
+  
